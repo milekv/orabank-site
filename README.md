@@ -5,44 +5,41 @@
 <h1 align="center">Oracle Banking System</h1>
 
 <p align="center">
-  Enterprise Banking Database Platform built with Oracle Database
+  Enterprise-grade Banking Database Platform built with Oracle Database
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Oracle-19c%20%7C%2021c-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-Enterprise-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+<a href="https://milekv.github.io/orabank-site/">
+  <img src="https://img.shields.io/badge/OraBank_Platform-0A66C2?style=for-the-badge&logoColor=white">
+</a>
+
+<a href="https://github.com/milekv/oracle-bank-system">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </p>
 
 <p align="center">
-  <a href="https://milekv.github.io/orabank-site/">
-    <img src="https://img.shields.io/badge/Live_Showcase-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://github.com/milekv/oracle-bank-system">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+
+<img src="https://img.shields.io/badge/Oracle%20Database-19c%20%7C%2021c-F80000?style=flat-square&logo=oracle">
+
+<img src="https://img.shields.io/badge/SQL-Advanced-0052CC?style=flat-square">
+
+<img src="https://img.shields.io/badge/PL%2FSQL-Enterprise-F97316?style=flat-square">
+
+<img src="https://img.shields.io/badge/Architecture-Multi%20Schema-059669?style=flat-square">
+
+<img src="https://img.shields.io/badge/Status-Completed-16A34A?style=flat-square">
+
 </p>
 
 ---
 
-## 🏦 Przegląd projektu
+### 🏦 Enterprise Banking Database Platform
 
-**Oracle Banking System (OraBank)** to projekt klasy enterprise przedstawiający architekturę nowoczesnego systemu bankowego zbudowanego w oparciu o Oracle Database.
+Oracle Banking System (OraBank) to projekt przedstawiający architekturę nowoczesnego systemu bankowego opartą o Oracle Database.
 
-Projekt odwzorowuje kluczowe procesy występujące w instytucjach finansowych, takie jak zarządzanie klientami, rachunkami, transakcjami, kredytami, bezpieczeństwem oraz raportowaniem.
-
-### Najważniejsze elementy
-
-* 🧱 Architektura wieloschematowa
-* ⚡ Zaawansowane SQL i PL/SQL
-* 📊 Modelowanie danych i ERD
-* 🔐 Role, uprawnienia i audyt
-* 🚀 Partycjonowanie danych
-* ⏰ Oracle Scheduler
-* 📈 Optymalizacja wydajności
-* 💾 Backup & Recovery
+Projekt obejmuje modelowanie danych, przetwarzanie transakcji, bezpieczeństwo, audyt, wydajność oraz strategie backupu i odtwarzania danych stosowane w środowiskach klasy enterprise.
 
 ---
