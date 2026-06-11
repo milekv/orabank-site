@@ -8,11 +8,6 @@
 <p align="center">
   <a href="https://milekv.github.io/orabank-site/">
     🌐 Demo projektu
-  </a>
-  •
-  <a href="https://github.com/milekv/oracle-bank-system">
-    📦 Repozytorium
-  </a>
 </p>
 
 ---
