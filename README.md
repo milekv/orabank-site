@@ -82,11 +82,11 @@ oracle-bank-system
 
 ### Model główny
 
-![ERD](./02_model_erd/erd_main.png)
+![ERD](./public/erd_main.png)
 
 ### Model transakcyjny
 
-![ERD](./02_model_erd/erd_transactions.png)
+![ERD](./public/erd_transactions.png)
 
 ---
 
