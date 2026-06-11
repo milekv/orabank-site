@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./orabank-logo.png" width="280" alt="OraBank Logo">
+  <img src="public/orabank-logo.png" width="280" alt="OraBank Logo">
 </p>
 
 <h3 align="center">🏦 Oracle Banking System</h3>
@@ -154,14 +154,6 @@ oracle-bank-system
 * [x] Scheduler Jobs
 * [x] Optymalizacja wydajności
 * [x] Backup & Recovery
-
----
-
-## 🌐 Strona projektu
-
-👉 https://orabank.milekv.dev
-
-Prezentacja projektu, architektury systemu, diagramów ERD oraz zastosowanych technologii Oracle.
 
 ---
 
