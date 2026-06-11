@@ -78,13 +78,11 @@ oracle-bank-system
 
 ---
 
-## 📊 Diagram ERD
-
-### Model główny
+### Core Architecture
 
 ![ERD](./public/erd_main.png)
 
-### Model transakcyjny
+### Transaction Processing Architecture
 
 ![ERD](./public/erd_transactions.png)
 
