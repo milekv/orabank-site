@@ -165,7 +165,4 @@ oracle-bank-system
 ## 👨‍💻 Autor
 
 **Miłosz Kordziński**
-
-SQL Developer • Database Engineer • Oracle Enthusiast
-
-GitHub: https://github.com/milekv to zmien, i nie chce takiego brzydkiego napisu demo mowie ci maja bc fajne smaczki githubowe w tym
+GitHub: https://github.com/milekv
