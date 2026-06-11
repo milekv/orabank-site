@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/orabank-logo.png" width="280" alt="OraBank Logo">
+  <img src="./orabank-logo.png" width="280" alt="OraBank Logo">
 </p>
 
 <h3 align="center">🏦 Oracle Banking System</h3>
